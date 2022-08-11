@@ -8,6 +8,7 @@ We studied the behavior of unsupervised anomaly detection through reconstruction
 ## Data preparation
 ### Dataset
 *CASIA-WebFace:* The CASIA-WebFace dataset is used for face verification and face identification tasks. The dataset contains 494,414 face images of 10,575 real identities collected from the web.
+
 *SMDD*: SMDD is a synthetic face morphing attack detection development dataset. Additional morphing attack data is used as data containimitaion in our case. SMDD can be downloaded via [SMDD Github](https://github.com/naserdamer/SMDD-Synthetic-Face-Morphing-Attack-Detection-Development-dataset).
 
 
